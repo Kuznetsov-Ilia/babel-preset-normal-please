@@ -1,6 +1,6 @@
 {
   "author": "Ilia Kuznetsov",
-  "name": "babel-preset-normal",
+  "name": "babel-preset-normal-please",
   "version": "0.0.1",
   "repository": "https://github.com/QiV/babel-preset-normal-please",
   "dependencies": {
