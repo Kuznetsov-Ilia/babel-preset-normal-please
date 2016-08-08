@@ -10,5 +10,7 @@ module.exports = modify('es2015', {
   'transform-es2015-spread': LOOSE,
   'transform-es2015-template-literals': LOOSE,
   'transform-es2015-typeof-symbol': false,
-  'transform-function-bind': true
+  'transform-function-bind': true,
+  'transform-es3-member-expression-literals': true,
+  'transform-es3-property-literals': true
 });
