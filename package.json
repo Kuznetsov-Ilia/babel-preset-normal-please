@@ -1,14 +1,15 @@
 {
   "author": "Ilia Kuznetsov",
   "name": "babel-preset-normal-please",
-  "version": "0.0.3",
+  "version": "3.0.3",
   "repository": "https://github.com/QiV/babel-preset-normal-please",
   "dependencies": {
     "modify-babel-preset": "*",
     "babel-plugin-transform-function-bind": "*",
     "babel-plugin-transform-es3-member-expression-literals": "*",
     "babel-plugin-transform-es3-property-literals": "*",
-    "babel-preset-es2015": "*"
+    "babel-preset-es2015": "*",
+    "babel-plugin-add-module-exports": "*"
   },
   "license": "MIT"
 }

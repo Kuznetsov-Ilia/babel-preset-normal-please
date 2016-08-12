@@ -12,5 +12,6 @@ module.exports = modify('es2015', {
   'transform-es2015-typeof-symbol': false,
   'transform-function-bind': true,
   'transform-es3-member-expression-literals': true,
-  'transform-es3-property-literals': true
+  'transform-es3-property-literals': true,
+  'add-module-exports': true
 });
