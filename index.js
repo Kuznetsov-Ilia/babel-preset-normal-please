@@ -6,7 +6,7 @@ module.exports = modify('es2015', {
   'transform-es2015-destructuring': LOOSE,
   'transform-es2015-duplicate-keys': false,
   'transform-es2015-for-of': LOOSE,
-  'transform-es2015-modules-commonjs': Object.assign({'strict': false}, LOOSE),
+  'transform-es2015-modules-commonjs': false,
   'transform-es2015-spread': LOOSE,
   'transform-es2015-template-literals': LOOSE,
   'transform-es2015-typeof-symbol': false,
